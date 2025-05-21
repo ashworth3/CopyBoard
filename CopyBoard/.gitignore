@@ -26,3 +26,6 @@ build/
 *.icloud
 *.xcscmblueprint
 *.xccheckout
+
+# Icon files
+*.icns
