@@ -51,3 +51,18 @@ Click **Copy** on any saved item to instantly reuse it. CopyBoard also helps kee
 <p align="center">
   Engineered for macOS by <a href="https://github.com/ashworth3">@ashworth3</a>
 </p>
+
+---
+
+## Screenshots
+
+Here’s a look at CopyBoard:
+
+### 1. Dropzone Mode
+<img src="CopyBoard1.png" alt="CopyBoard Dropzone View" width="600"/>
+
+### 2. Clipboard History
+<img src="CopyBoard2.png" alt="CopyBoard History View" width="600"/>
+
+### 3. Empty State
+<img src="CopyBoard3.png" alt="CopyBoard Empty State" width="600"/>
