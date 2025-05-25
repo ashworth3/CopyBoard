@@ -42,18 +42,6 @@ Unlike the native macOS clipboard that only remembers your most recent copy, Cop
 
 ---
 
-## Usage Tips
-
-Click **Copy** on any saved item to instantly reuse it. CopyBoard also helps keep things tidy by automatically ignoring duplicate clipboard entries.
-
----
-
-<p align="center">
-  Engineered for macOS by <a href="https://github.com/ashworth3">@ashworth3</a>
-</p>
-
----
-
 ## Screenshots
 
 Here’s a look at CopyBoard:
@@ -66,3 +54,15 @@ Here’s a look at CopyBoard:
 
 ### 3. History Saves
 <img src="CopyBoard3.png" alt="CopyBoard History Saves" width="600"/>
+
+---
+
+## Usage Tips
+
+Click **Copy** on any saved item to instantly reuse it. CopyBoard also helps keep things tidy by automatically ignoring duplicate clipboard entries.
+
+---
+
+<p align="center">
+  Engineered for macOS by <a href="https://github.com/ashworth3">@ashworth3</a>
+</p>
