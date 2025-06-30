@@ -33,7 +33,7 @@ Unlike the native macOS clipboard that only remembers your most recent copy, Cop
 
 ### Install on macOS via `.dmg`
 
-1. [Download CopyBoard.dmg](https://github.com/ashworth3/CopyBoard/releases/latest)
+1. [Download `CopyBoard-1.0.dmg`](https://github.com/yourusername/CopyBoard/releases/latest/download/CopyBoard-1.0.dmg)
 2. Open the downloaded file
 3. Drag **CopyBoard.app** into your Applications folder
 4. Launch the app and optionally enable **Launch at Login**
