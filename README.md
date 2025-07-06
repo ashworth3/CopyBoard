@@ -47,13 +47,16 @@ Unlike the native macOS clipboard that only remembers your most recent copy, Cop
 Here’s a look at CopyBoard:
 
 ### 1. App Preview
-<img src="CopyBoard1.png" alt="CopyBoard App Preview" width="600"/>
+<img src="images/CopyBoard1.png" alt="CopyBoard App Preview" width="600"/>
 
 ### 2. Drag and Drop
-<img src="CopyBoard2.png" alt="CopyBoard Drag and Drop Feature" width="600"/>
+<img src="images/CopyBoard2.png" alt="CopyBoard Drag and Drop Feature" width="600"/>
 
 ### 3. History Saves
-<img src="CopyBoard3.png" alt="CopyBoard History Saves" width="600"/>
+<img src="images/CopyBoard3.png" alt="CopyBoard History Saves" width="600"/>
+
+### 4. Menu Bar Options
+<img src="images/CopyBoard4.png" alt="CopyBoard Menu Bar Options" width="600"/>
 
 ---
 
