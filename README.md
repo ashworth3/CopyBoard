@@ -64,5 +64,5 @@ Click **Copy** on any saved item to instantly reuse it. CopyBoard also helps kee
 ---
 
 <p align="center">
-  Engineered for macOS by <a href="https://github.com/ashworth3">@ashworth3</a>
+  Created by <a href="https://github.com/ashworth3">@ashworth3</a>
 </p>
